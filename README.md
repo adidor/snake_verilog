@@ -11,4 +11,5 @@ Snake is a remake of the classic snake video game for the Nexys 4 family of FPGA
 - Clone the repository.
 - Generate a bitstream using Vivado or other appropriate software.
 - Upload it to your FPGA (here, Nexys-4 board was used).
+- Use directional buttons to move the snake and center button to restart the game.
 
